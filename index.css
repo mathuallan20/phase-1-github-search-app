@@ -10,4 +10,18 @@
 
 ul {
   list-style: none;
+}body {
+  background-color: rgb(138, 105, 105);
+ font-size: 18px; 
+ font-style: italic;
+ text-align:center;
+}
+#details {
+  margin: auto;
+  width: 20%;
+  width: 1500px;
+}
+div {
+  float: initial;
+  width:100%;
 }
